@@ -46,11 +46,8 @@ This repository contains the implementation of a terrain recognition system usin
 - numpy
 
 
-  **###Dataset**
-  
-    #With the help of this link you will access the Dataset
-  
-  https://www.kaggle.com/datasets/ai21ds06anilriswal/terrain-dataset
+
+
 
 
 
